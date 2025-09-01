@@ -6,13 +6,8 @@
 ## Introduction
 <br>
 
-This is a project to potentially help discover the patterns of the Coronavirus spread and important features that affects the spread. 
+This project aims to uncover hidden patterns behind the spread of the Coronavirus by performing an in-depth exploratory data analysis (EDA) on global case and death data. By examining trends across countries, regions, and time periods, the analysis highlights not only the magnitude of the pandemic but also the underlying dynamics that influenced its progression. The ultimate goal is to extract meaningful insights, build a foundation for forecasting models, and contribute toward data-driven strategies that can help mitigate future outbreaks.
 
-The **techniques** I am planning to use for forecasting are: <br>
-* ARIMA 
-* Seq2Seq + LSTM (Deep Learning)
-* Xgboost (Machine Learning)
-<br>
 
 ## Main Files
 <br>
@@ -22,7 +17,7 @@ The **techniques** I am planning to use for forecasting are: <br>
 ## Data Sources
 
 
-1. [Kaggle: COVID19 Global Forecasting (Week 5)](https://www.kaggle.com/c/covid19-global-forecasting-week-5/data)
+1. [Kaggle: COVID19 Global Forecasting](https://www.kaggle.com/c/covid19-global-forecasting-week-5/data)
 
 * `train.csv`
 * `test.csv`
