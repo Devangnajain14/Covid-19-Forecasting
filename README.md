@@ -6,8 +6,7 @@
 ## Introduction
 <br>
 
-This project aims to uncover hidden patterns behind the spread of the Coronavirus by performing an in-depth exploratory data analysis (EDA) on global case and death data. By examining trends across countries, regions, and time periods, the analysis highlights not only the magnitude of the pandemic but also the underlying dynamics that influenced its progression. The ultimate goal is to extract meaningful insights, build a foundation for forecasting models, and contribute toward data-driven strategies that can help mitigate future outbreaks.
-
+This project focuses on time series Exploratory Data Analysis (EDA) using Python to examine global COVID-19 confirmed cases and deaths. By visualizing temporal patterns, identifying growth phases, and comparing trends across different regions, the analysis provides a deeper understanding of how the virus spread over time. Special attention is given to detecting hotspots, analyzing growth rates, and exploring features that significantly influenced the trajectory of the pandemic.
 
 ## Main File
 <br>
