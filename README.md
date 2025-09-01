@@ -9,7 +9,7 @@
 This project aims to uncover hidden patterns behind the spread of the Coronavirus by performing an in-depth exploratory data analysis (EDA) on global case and death data. By examining trends across countries, regions, and time periods, the analysis highlights not only the magnitude of the pandemic but also the underlying dynamics that influenced its progression. The ultimate goal is to extract meaningful insights, build a foundation for forecasting models, and contribute toward data-driven strategies that can help mitigate future outbreaks.
 
 
-## Main Files
+## Main File
 <br>
 
 * `covid19 - EDA.ipynb` - Notebook performing Exploratory Data Analysis on Global comfirmed cases and deaths before June 10th <br>
